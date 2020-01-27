@@ -1,6 +1,9 @@
 # spring-boot-h2db
-springboot integration with H2DB, and just created a Student Entity, to save and get using REST.
+This Projectis jsut a demo how to use psring-boot with h2db.
 
-#to Post: localhost:8080/save/Student1.Like that you can add any number of student.
+In the example I ahve created a Student Entity adn to save and get using REST.
 
-#to get all the added student: localhost:8080/name
+#### to Post: localhost:8080/save/Student1.
+Like that you can add any number of student.
+
+##### to get all the added student: localhost:8080/name
